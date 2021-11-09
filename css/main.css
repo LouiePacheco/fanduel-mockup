@@ -289,6 +289,15 @@ li {
 *::after  {
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "proximaNova";
+  src: url("/fonts/proxima-nova.otf");
+}
+@font-face {
+  font-family: "Shentox";
+  src: url("/fonts/shentox-bold.ttf");
+}
 @font-face {
   font-family: "proximaNova";
   src: url("../fonts/proxima-nova.otf") format('opentype');
@@ -300,14 +309,6 @@ li {
   src: url("../fonts/shentox-bold.ttf") format('truetype');
   font-weight: bold;
   font-style: normal;
-}
-@font-face {
-  font-family: "proximaNova";
-  src: url("/fonts/proxima-nova.otf");
-}
-@font-face {
-  font-family: "Shentox";
-  src: url("/fonts/shentox-bold.ttf");
 }
 .final-container {
   max-width: 100%;
