@@ -291,13 +291,13 @@ li {
 }
 @font-face {
   font-family: proximaNova;
-  src: url("../fanduel-mockup/proxima-nova Font.otf") format('opentype');
+  src: url("font/fanduel-mockup/proxima-nova Font.otf") format('opentype');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: Shentox;
-  src: url("../fanduel-mockup/proxima-nova Font.otf") format('opentype');
+  src: url("font/fanduel-mockup/shentox-bold Font.ttf") format('truetype');
   font-weight: bold;
   font-style: normal;
 }
