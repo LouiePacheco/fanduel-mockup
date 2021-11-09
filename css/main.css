@@ -289,7 +289,18 @@ li {
 *::after  {
   box-sizing: border-box;
 }
-
+@font-face {
+  font-family: proximaNova;
+  src: url("../fanduel-mockup/proxima-nova Font.otf") format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: Shentox;
+  src: url("../fanduel-mockup/proxima-nova Font.otf") format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
 @font-face {
   font-family: "proximaNova";
   src: url("/fonts/proxima-nova.otf");
