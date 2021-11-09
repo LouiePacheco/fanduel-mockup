@@ -290,14 +290,14 @@ li {
   box-sizing: border-box;
 }
 @font-face {
-  font-family: proximaNova;
-  src: url("font/fanduel-mockup/proxima-nova Font.otf") format('opentype');
+  font-family: "proximaNova";
+  src: url("../fonts/proxima-nova.otf") format('opentype');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
-  font-family: Shentox;
-  src: url("font/fanduel-mockup/shentox-bold Font.ttf") format('truetype');
+  font-family: "Shentox";
+  src: url("../fonts/shentox-bold.ttf") format('truetype');
   font-weight: bold;
   font-style: normal;
 }
