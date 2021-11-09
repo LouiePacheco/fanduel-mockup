@@ -310,6 +310,9 @@ li {
   font-weight: bold;
   font-style: normal;
 }
+.site-links {
+  font-family: Shentox;
+}
 .final-container {
   max-width: 100%;
   padding: 0;
