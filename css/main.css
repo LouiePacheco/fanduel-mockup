@@ -310,7 +310,7 @@ li {
   font-weight: bold;
   font-style: normal;
 }
-.site-links {
+li.site-links {
   font-family: Shentox;
 }
 .final-container {
